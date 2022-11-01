@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    color: #e30613;
+    font-family: 'Courgette', cursive;
+}
+
+.back-descriptions{
+    background-color: #181616;
+}
+
+.title-description{
+    color: #00963f;
+}
+
+.main-title{
+    color: #ffed00;
+    font-size: 24px;
+}
+
+h2{
+    font-size: 28px;
+}
+h5{
+    font-size: 0.8rem;
+}
+
+.items-names{
+    font-size: 0.7rem;
+}
+
+@media (min-width: 1200px) {
+    .main-title{
+        color: #ffed00;
+        font-size: 24px;
+    }
+
+    h2{
+        font-size: 28px;
+    }
+    h5{
+        font-size: 1.3rem;
+    }
+
+    .items-names{
+        font-size: 1.1rem;
+    }
+    .cont-box{
+        width: 35%;
+    }
+}
